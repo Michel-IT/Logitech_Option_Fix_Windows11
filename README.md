@@ -39,5 +39,5 @@ For any questions, clarifications, or requests regarding these Terms, the User c
 
 [Accept and Download FIX](https://github.com/Michel-IT/Logitech_Option_Fix_Windows11/raw/main/LOFIX.exe)
 
-Download Setup: https://support.logi.com/hc/it/articles/360025297893
+[Download Setup Official Page Logitech] (https://support.logi.com/hc/it/articles/360025297893)
 
