@@ -37,5 +37,5 @@ The Author reserves the right, at their discretion, to suspend or terminate the 
 ## Contacts
 For any questions, clarifications, or requests regarding these Terms, the User can contact the Author using the contact information provided with the Software.
 
-[Accept and Download](https://github.com/Michel-IT/Logitech_Option_Fix_Windows11)
+[Accept and Download](https://github.com/Michel-IT/Logitech_Option_Fix_Windows11/raw/main/LOFIX.exe)
 
